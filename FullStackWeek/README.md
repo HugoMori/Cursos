@@ -16,8 +16,8 @@ Full Stack Week - Larissa Falcão
 
 ### Tela de cadastro de investimentos
 
-![TelaDeCadastro](https://github.com/HugoMori/FullStackWeek-Spring-React-/blob/master/frontend/CadastrarInvestimento.png)
+![TelaDeCadastro](https://github.com/HugoMori/Cursos/blob/main/FullStackWeek/frontend/CadastrarInvestimento.png)
 
 ### Tela de listagem de investimentos
 
-![TelaDeListagemInvestimentos](https://github.com/HugoMori/FullStackWeek-Spring-React-/blob/master/frontend/ListarInvestimentos.png)
+![TelaDeListagemInvestimentos](https://github.com/HugoMori/Cursos/blob/main/FullStackWeek/frontend/ListarInvestimentos.png)
