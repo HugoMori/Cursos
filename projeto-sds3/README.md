@@ -178,6 +178,6 @@ of the data.
 ## Source
 
 <ul>
-  <li><a href="https://devsuperior.com.br/">DevSuperior></a></li>
+  <li><a href="https://projeto-sds3-hom.netlify.app">DevSuperior></a></li>
   <li><a href="https://github.com/devsuperior/sds3">DevSuperior - Semana Spring React - SDS 3.0</a></li>
 </ul>
