@@ -171,13 +171,13 @@ of the data.
 
 ## Hosting
 
-<p>Visit: <a href="https://hugo-sds3.netlify.app/">Link</a></p>
+<p>Visit: <a href="https://projeto-sds3-hom.netlify.app">Link</a></p>
 (How is used Heroku Cli, free version, wait for a minute to reload the datas)
 
 
 ## Source
 
 <ul>
-  <li><a href="https://projeto-sds3-hom.netlify.app">DevSuperior></a></li>
+  <li><a href="https://github.com/devsuperior/">DevSuperior></a></li>
   <li><a href="https://github.com/devsuperior/sds3">DevSuperior - Semana Spring React - SDS 3.0</a></li>
 </ul>
